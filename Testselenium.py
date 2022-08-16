@@ -92,7 +92,7 @@ class bot:
 
 
 def init():
-    bot('sogotest27@gmail.com', 'Prabha2718', user, message_)
+    bot('username', 'Password', user, message_)
 
     # when our program ends it will show "done".
     input("DONE")
